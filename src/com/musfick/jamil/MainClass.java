@@ -1,6 +1,4 @@
 package com.musfick.jamil;
-
-import javax.naming.Context;
 import java.util.Scanner;
 
 public class MainClass {

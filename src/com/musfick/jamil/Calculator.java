@@ -45,6 +45,8 @@ public class Calculator {
         //Second Number Input
         System.out.println("Enter second number: ");
         mSecondNum = mScanner.nextFloat();
+
+        //Try
     }
 
     public void displayResult()
